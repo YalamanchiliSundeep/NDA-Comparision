@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+nltk
+sentence-transformers
+google-generativeai
+python-dotenv
+python-docx
